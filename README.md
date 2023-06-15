@@ -249,6 +249,9 @@ Run the django server and execute the html file
 
 ![exp 4 05](https://github.com/Alfredsec/places-around-me/assets/120621608/2f403012-093e-4507-9f48-8b59cdf4cd98)
 
+## html validator:
+![exp 4 html validator](https://github.com/Alfredsec/places-around-me/assets/120621608/9f6567b2-0bac-4eb8-9937-9805ea16b680)
+
 ## Result:
 
 Thus the program for implementing image map is executed successfully
